@@ -6,3 +6,5 @@ while(i<10):
     i=i+1
 
 print("hello")
+
+print("beep boop")
