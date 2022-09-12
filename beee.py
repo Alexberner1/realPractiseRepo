@@ -7,4 +7,4 @@ while(i<10):
 
 print("hello")
 
-print("beep")
+print("beep*2")
